@@ -1,7 +1,7 @@
 
-baseurl = "https://sarthakjain.info/blog"
+baseurl = "https://sarthak93.github.io/blog/"
 languageCode = "en-us"
-title = "Sarthak Jain's Blog"
+title = "Let there be light"
 theme = "blackburn"
 author = "Sarthak Jain"
 copyright = "&copy; 2016. All rights reserved."
@@ -14,7 +14,7 @@ paginate = 10
 
 [params]
   # Shown in the home page
-  subtitle = "Sarthak Jain"
+  subtitle = "For we are just a node on the network"
   brand = "Blog"
   googleAnalytics = "UA-83759526-2"
   disqus = "sarthakjain93"
@@ -51,10 +51,10 @@ paginate = 10
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
-  linkedin = "https://in.linkedin.com/in/sarthakjain93"
-  facebook = "https://www.facebook.com/sarthakjain93"
-  instagram = "https://www.instagram.com/sarthakjain93/?hl=en"
-  twitter = "https://twitter.com/sarthakjain939"
-  github = "https://github.com/sarthak93"
+  linkedin = "sarthakjain93"
+  facebook = "sarthakjain93"
+  instagram = "sarthakjain93"
+  twitter = "sarthakjain939"
+  github = "sarthak93"
   
   #stackoverflow = "*"
