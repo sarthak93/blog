@@ -1,5 +1,5 @@
 
-baseurl = "https://sarthak93.github.io/blog/"
+baseurl = "https://sarthakjain.info/blog"
 languageCode = "en-us"
 title = "Sarthak Jain's Blog"
 theme = "blackburn"
@@ -14,10 +14,10 @@ paginate = 10
 
 [params]
   # Shown in the home page
-  subtitle = "Dreams of "
-  brand = "Blackburn"
-  googleAnalytics = "Your Google Analytics tracking ID"
-  disqus = "Your Disqus shortname"
+  subtitle = "Sarthak Jain"
+  brand = "Blog"
+  googleAnalytics = "UA-83759526-2"
+  disqus = "sarthakjain93"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006, 15:04"
