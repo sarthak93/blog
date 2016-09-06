@@ -1,9 +1,9 @@
 
 baseurl = "https://sarthak93.github.io/blog/"
 languageCode = "en-us"
-title = "Blackburn Theme Demo"
+title = "Sarthak Jain's Blog"
 theme = "blackburn"
-author = "Yoshiharu Yamashita"
+author = "Sarthak Jain"
 copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
 paginate = 10
@@ -14,7 +14,7 @@ paginate = 10
 
 [params]
   # Shown in the home page
-  subtitle = "A Hugo Theme"
+  subtitle = "Dreams of "
   brand = "Blackburn"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
@@ -51,9 +51,10 @@ paginate = 10
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
-  twitter = "*"
-  facebook = "*"
-  instagram = "*"
-  github = "yoshiharuyamashita"
-  stackoverflow = "*"
-  linkedin = "*"
+  linkedin = "https://in.linkedin.com/in/sarthakjain93"
+  facebook = "https://www.facebook.com/sarthakjain93"
+  instagram = "https://www.instagram.com/sarthakjain93/?hl=en"
+  twitter = "https://twitter.com/sarthakjain939"
+  github = "https://github.com/sarthak93"
+  
+  #stackoverflow = "*"

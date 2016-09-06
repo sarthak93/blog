@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://myblog.sites.dev/public/</loc>
+    <loc>https://sarthak93.github.io/blog/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myblog.sites.dev/public/about/</loc>
+    <loc>https://sarthak93.github.io/blog/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myblog.sites.dev/public/contact/</loc>
+    <loc>https://sarthak93.github.io/blog/contact/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myblog.sites.dev/public/post/goisforlovers/</loc>
+    <loc>https://sarthak93.github.io/blog/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myblog.sites.dev/public/post/hugoisforlovers/</loc>
+    <loc>https://sarthak93.github.io/blog/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myblog.sites.dev/public/post/creating-a-new-theme/</loc>
+    <loc>https://sarthak93.github.io/blog/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myblog.sites.dev/public/post/migrate-from-jekyll/</loc>
+    <loc>https://sarthak93.github.io/blog/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
