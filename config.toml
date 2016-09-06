@@ -1,5 +1,5 @@
 
-baseurl = "http://myblog.sites.dev/public/"
+baseurl = "https://sarthak93.github.io/blog/"
 languageCode = "en-us"
 title = "Blackburn Theme Demo"
 theme = "blackburn"
