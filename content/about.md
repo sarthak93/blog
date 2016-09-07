@@ -11,6 +11,6 @@ Keeping up with the open source world, I managed to bring this blog site up usin
 
 My main motive is to share my views, thoughts and activities I keeep doing as an engineer in the making. 
 
-Have questions or suggestions? Feel free to [contact me](https://sarthakjain.info).
+Have questions or suggestions? Feel free to [contact me](http://sarthakjain.info).
 
 Thanks for reading!
