@@ -26,33 +26,13 @@
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://sarthak93.github.io/blog/about/</guid>
-      <description>
+      <description>&lt;p&gt;Hey there! I am Sarthak Jain, final year student from IIT Kharagpur. As of now I&amp;rsquo;m majoring in Civil Engineering, with specialisation in structures.&lt;/p&gt;
 
-&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
+&lt;p&gt;Keeping up with the open source world, I managed to bring this blog site up using &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; &amp;amp;  &lt;a href=&#34;https://pages.github.com&#34;&gt;GitHub Pages&lt;/a&gt; which I found to be pretty cool and easy.&lt;/p&gt;
 
-&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;p&gt;My main motive is to share my views, thoughts and activities I keeep doing as an engineer in the making.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/spf13&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
-
-&lt;p&gt;Some fun facts about &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Built in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Loosely inspired by &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Primarily developed by &lt;a href=&#34;http://spf13.com/&#34;&gt;spf13&lt;/a&gt; on the train while commuting to and from Manhattan.&lt;/li&gt;
-&lt;li&gt;Coded in &lt;a href=&#34;http://vim.org&#34;&gt;Vim&lt;/a&gt; using &lt;a href=&#34;http://vim.spf13.com/&#34;&gt;spf13-vim&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Have questions or suggestions? Feel free to &lt;a href=&#34;https://github.com/spf13/hugo/issues/new&#34;&gt;open an issue on GitHub&lt;/a&gt; or &lt;a href=&#34;https://twitter.com/spf13&#34;&gt;ask me on Twitter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Have questions or suggestions? Feel free to &lt;a href=&#34;https://sarthakjain.info&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Thanks for reading!&lt;/p&gt;
 </description>
@@ -83,18 +63,10 @@
       &lt;/div&gt;
 
       &lt;div class=&#34;pure-u-1 pure-u-md-1-3&#34;&gt;
-        &lt;label for=&#34;city&#34;&gt;City&lt;/label&gt;
+        &lt;label for=&#34;city&#34;&gt;Location&lt;/label&gt;
         &lt;input id=&#34;city&#34; class=&#34;pure-u-23-24&#34; type=&#34;text&#34;&gt;
       &lt;/div&gt;
 
-      &lt;div class=&#34;pure-u-1 pure-u-md-1-3&#34;&gt;
-        &lt;label for=&#34;state&#34;&gt;State&lt;/label&gt;
-        &lt;select id=&#34;state&#34; class=&#34;pure-input-1-2&#34;&gt;
-          &lt;option&gt;AL&lt;/option&gt;
-          &lt;option&gt;CA&lt;/option&gt;
-          &lt;option&gt;IL&lt;/option&gt;
-        &lt;/select&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
     &lt;fieldset class=&#34;pure-group&#34;&gt;
       &lt;input type=&#34;text&#34; class=&#34;pure-input-1-2&#34; placeholder=&#34;A title&#34;&gt;
@@ -107,13 +79,15 @@
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>Welcome</title>
       <link>https://sarthak93.github.io/blog/welcome/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://sarthak93.github.io/blog/welcome/</guid>
-      <description>&lt;p&gt;This is a test. Welcome to browse along.
-Cheers!&lt;/p&gt;
+      <description>&lt;p&gt;Thanks for breaking the barrier and taking the first step! I am highly obliged by your gesture. I have a couple of posts on my thoughts, learnings, actvities. Feel free to browse along.&lt;/p&gt;
+
+&lt;p&gt;Cheers!
+Sarthak&lt;/p&gt;
 </description>
     </item>
     

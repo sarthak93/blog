@@ -2,7 +2,7 @@
 title = "Contact"
 date = "2014-04-09"
 sidemenu = "true"
-description = "How to contact me"
+description = "Send me a message"
 +++
 
 <form class="pure-form pure-form-stacked">
@@ -24,18 +24,10 @@ description = "How to contact me"
       </div>
 
       <div class="pure-u-1 pure-u-md-1-3">
-        <label for="city">City</label>
+        <label for="city">Location</label>
         <input id="city" class="pure-u-23-24" type="text">
       </div>
 
-      <div class="pure-u-1 pure-u-md-1-3">
-        <label for="state">State</label>
-        <select id="state" class="pure-input-1-2">
-          <option>AL</option>
-          <option>CA</option>
-          <option>IL</option>
-        </select>
-      </div>
     </div>
     <fieldset class="pure-group">
       <input type="text" class="pure-input-1-2" placeholder="A title">

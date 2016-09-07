@@ -5,27 +5,12 @@ sidemenu = "true"
 description = "About me and this site"
 +++
 
-Hugo is a static site engine written in Go.
+Hey there! I am Sarthak Jain, final year student from IIT Kharagpur. As of now I'm majoring in Civil Engineering, with specialisation in structures. 
 
+Keeping up with the open source world, I managed to bring this blog site up using [Hugo](http://gohugo.io/) &  [GitHub Pages](https://pages.github.com) which I found to be pretty cool and easy. 
 
-It makes use of a variety of open source projects including:
+My main motive is to share my views, thoughts and activities I keeep doing as an engineer in the making. 
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+Have questions or suggestions? Feel free to [contact me](https://sarthakjain.info).
 
 Thanks for reading!
