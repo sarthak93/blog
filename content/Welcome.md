@@ -1,12 +1,10 @@
 +++
-date = "2016-09-06T23:26:48+05:30"
-description = ""
-draft = true
-tags = []
-title = "Welcome"
-topics = []
-
+title = "Contact"
+date = "2014-04-09"
+sidemenu = "true"
+description = "How to contact me"
 +++
+
 
 This is a test. Welcome to browse along. 
 Cheers!

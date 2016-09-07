@@ -3,7 +3,12 @@
   
   <url>
     <loc>https://sarthak93.github.io/blog/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2015-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sarthak93.github.io/blog/post/first-blog-post/</loc>
+    <lastmod>2015-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,6 +18,11 @@
   
   <url>
     <loc>https://sarthak93.github.io/blog/contact/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sarthak93.github.io/blog/welcome/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   

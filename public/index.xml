@@ -7,8 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sarthak93.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My first post</title>
+      <link>https://sarthak93.github.io/blog/post/first-blog-post/</link>
+      <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarthak93.github.io/blog/post/first-blog-post/</guid>
+      <description>&lt;p&gt;After a lot of gasping-for-air like moments, I could successfully setup my website and blog. Honestly, I could never have felt any more satisfied after doing this.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -93,6 +103,17 @@
     &lt;button type=&#34;submit&#34; class=&#34;pure-button pure-button-primary&#34;&gt;Send&lt;/button&gt;
   &lt;/fieldset&gt;
 &lt;/form&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sarthak93.github.io/blog/welcome/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarthak93.github.io/blog/welcome/</guid>
+      <description>&lt;p&gt;This is a test. Welcome to browse along.
+Cheers!&lt;/p&gt;
 </description>
     </item>
     
