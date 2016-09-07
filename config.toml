@@ -35,6 +35,7 @@ paginate = 10
     name = "Welcome"
     pre = "<i class='fa fa-home fa-fw'></i>"
     weight = 0
+    identifier = "welcome"
     url = "/welcome/"
   [[menu.main]]
     name = "Posts"
