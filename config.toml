@@ -1,5 +1,6 @@
 
-baseurl = "https://sarthak93.github.io/blog/"
+#baseurl = "https://sarthak93.github.io/blog/"
+baseurl= "http://blog.sarthakjain.info"
 languageCode = "en-us"
 title = "Let there be light"
 theme = "blackburn"
