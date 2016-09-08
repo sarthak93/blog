@@ -18,7 +18,7 @@ paginate = 10
   subtitle = "For we are just a node on the network"
   brand = "Blog"
   googleAnalytics = "UA-83759526-2"
-  disqus = "sarthakjain93"
+  disqusShortname = "My Blog"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006, 15:04"
