@@ -16,12 +16,12 @@
       <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://sarthak93.github.io/blog/post/how-to-launpad/</guid>
-      <description>&lt;p&gt;Thanks for breaking the barrier and taking the first step! I am highly obliged by your gesture. I have a couple of posts on my thoughts, learnings, actvities. Feel free to browse along.&lt;/p&gt;
+      <description>&lt;p&gt;I struggled on the internet to figure out how to mark my presence online and beacuse I believe in open source, I thus would like to share a quick step-by-step guide to launch yourself in the wide world of wonder. P.S. No money needed, but if you feel too generous, I won&amp;rsquo;t mind some charity coming along.&lt;/p&gt;
 
-&lt;p&gt;Cheers!
-Sarthak&lt;/p&gt;
-
-&lt;p&gt;{{ template &amp;ldquo;_internal/disqus.html&amp;rdquo; . }}&lt;/p&gt;
+&lt;p&gt;###GitHub
+Go to &lt;a href=&#34;www.github.com&#34;&gt;Github&lt;/a&gt; and create an account using your email id.
+Chose a username which wouldn&amp;rsquo;t embarass you while sharing it.
+Create a repository by the name of &lt;your username&gt;.github.io&lt;/p&gt;
 </description>
     </item>
     
