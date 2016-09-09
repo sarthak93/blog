@@ -44,6 +44,12 @@ paginate = 10
     identifier = "post"
     url = "/post/"
   [[menu.main]]
+    name = "Quotes"
+    pre = "<i class='fa fa-quote-left fa-fw'></i>"
+    weight = 1
+    identifier = "quotes"
+    url = "/quotes/"
+  [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
     weight = 2

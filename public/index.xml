@@ -16,13 +16,60 @@
       <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://sarthak93.github.io/blog/post/how-to-launpad/</guid>
-      <description>&lt;p&gt;I struggled on the internet to figure out how to mark my presence online and beacuse I believe in open source, I thus would like to share a quick step-by-step guide to launch yourself in the wide world of wonder. P.S. No money needed, but if you feel too generous, I won&amp;rsquo;t mind some charity coming along.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;###GitHub&lt;/p&gt;
+&lt;p&gt;I struggled on the internet to figure out how to mark my presence online and beacuse I believe in open source, I thus would like to share a quick step-by-step guide to launch yourself in the wide world of wonder. P.S. No money needed, but if you feel too generous, I won&amp;rsquo;t mind some charity coming along.&lt;/p&gt;
 
-&lt;p&gt;Go to &lt;a href=&#34;www.github.com&#34;&gt;Github&lt;/a&gt; and create an account using your email id.
-Chose a username which wouldn&amp;rsquo;t embarass you while sharing it.
-Create a repository by the name of &lt;em&gt;&lt;strong&gt;your username&lt;/strong&gt;.github.io&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;github&#34;&gt;GitHub&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Go to &lt;a href=&#34;www.github.com&#34;&gt;Github&lt;/a&gt; and create an account using your email id.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Chose a username which wouldn&amp;rsquo;t embarass you while sharing it.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Create a repository by the name of &lt;em&gt;&lt;strong&gt;username&lt;/strong&gt;.github.io&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Voila! Now you have a website serving you at http://&lt;strong&gt;username&lt;/strong&gt;.github.io&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;the-crucial-part-the-web-page&#34;&gt;The crucial part - &lt;em&gt;The Web Page&lt;/em&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Here is the nitty gritty stuff.
+
+&lt;ul&gt;
+&lt;li&gt;You have to decide on the level of sophistication you need. &lt;em&gt;I am using an HTML/CSS based website with &lt;a href=&#34;www.gohugo.io&#34;&gt;Hugo&lt;/a&gt; powered blog.&lt;/em&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Go over to some common free templating sites like &lt;a href=&#34;http://www.opendesigns.org&#34;&gt;this&lt;/a&gt; and download any one which suits you.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Download the entire package and make sure you can open it in a local web browser without internet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;getting-published&#34;&gt;Getting published&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Now what you want to be doing is making a folder on your local machine where you could put the website locally.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;If you are not familiar with Github command line, no worries, I&amp;rsquo;ve got you covered. As I said, this is for noobs like me. So go ahead and install &lt;a href=&#34;https://desktop.github.com&#34;&gt;GitHub client&lt;/a&gt; on your computer.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Link the aforementioned folder to the GitHub client. Add your GitHub credentials aka your username, password.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Now know that the words &lt;em&gt;pull&lt;/em&gt;, &lt;em&gt;push&lt;/em&gt; and &lt;em&gt;commit&lt;/em&gt; would be redefined in your mental dictionary in the next few seconds.&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Commit - It means that the currently &lt;em&gt;watched&lt;/em&gt; folder is checked for changes and they are updated into a &lt;em&gt;version control&lt;/em&gt;.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Pull - It means that the changes in your remote repository aka folder would be reflected in your local repository.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Push - It means that the changes in your local repository aka folder would be reflected into the remote repository.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Once you successfully &lt;em&gt;push&lt;/em&gt; the template folder to your &lt;em&gt;username.github.io&lt;/em&gt; repository, you have a live website.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Congratulations! :) You cleared the first step. Now head over to edit this template website to suit your needs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;setting-up-your-computer&#34;&gt;Setting up your computer&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In case you want to simplify your life by automation, you may want to do a little tweaking around the above setup.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;domain-name-if-you-re-a-fancy-buff-and-want-to-brand-yourself&#34;&gt;Domain Name (If you&amp;rsquo;re a fancy buff and want to brand yourself)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Go over to any of the domain name services. &lt;em&gt;I chose &lt;a href=&#34;www.godaddy.com&#34;&gt;GoDaddy&lt;/a&gt;.&lt;/em&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Choose a domain name you like and purchase it if it fits your budget.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -91,6 +138,20 @@ Create a repository by the name of &lt;em&gt;&lt;strong&gt;your username&lt;/str
     &lt;button type=&#34;submit&#34; class=&#34;pure-button pure-button-primary&#34;&gt;Send&lt;/button&gt;
   &lt;/fieldset&gt;
 &lt;/form&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Food for thought</title>
+      <link>https://sarthak93.github.io/blog/quotes/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarthak93.github.io/blog/quotes/</guid>
+      <description>&lt;p&gt;Most of the time, I like to think and pen it down. Here is a little piece of my time.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Solitary and alone are flipsides to the same coin.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
