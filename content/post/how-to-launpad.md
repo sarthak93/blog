@@ -10,4 +10,4 @@ I struggled on the internet to figure out how to mark my presence online and bea
 ###GitHub
 Go to [Github](www.github.com) and create an account using your email id. 
 Chose a username which wouldn't embarass you while sharing it. 
-Create a repository by the name of <your username>.github.io
+Create a repository by the name of _**your username**.github.io_
