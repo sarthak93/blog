@@ -58,17 +58,12 @@
 &lt;li&gt;Congratulations! :) You cleared the first step. Now head over to edit this template website to suit your needs.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;setting-up-your-computer&#34;&gt;Setting up your computer&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In case you want to simplify your life by automation, you may want to do a little tweaking around the above setup.&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h3 id=&#34;domain-name-if-you-re-a-fancy-buff-and-want-to-brand-yourself&#34;&gt;Domain Name (If you&amp;rsquo;re a fancy buff and want to brand yourself)&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Go over to any of the domain name services. &lt;em&gt;I chose &lt;a href=&#34;www.godaddy.com&#34;&gt;GoDaddy&lt;/a&gt;.&lt;/em&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Choose a domain name you like and purchase it if it fits your budget.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Now head over to the DNS settings and add a &lt;em&gt;forward with masking&lt;/em&gt; to your live website at the aforementioned link.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

@@ -32,11 +32,10 @@ I struggled on the internet to figure out how to mark my presence online and bea
 * Once you successfully _push_ the template folder to your _username.github.io_ repository, you have a live website.  
 * Congratulations! :) You cleared the first step. Now head over to edit this template website to suit your needs. 
 
-### Setting up your computer
-
-* In case you want to simplify your life by automation, you may want to do a little tweaking around the above setup. 
 
 ### Domain Name (If you're a fancy buff and want to brand yourself)
 
 * Go over to any of the domain name services. _I chose [GoDaddy](www.godaddy.com)._  
 * Choose a domain name you like and purchase it if it fits your budget.  
+* Now head over to the DNS settings and add a _forward with masking_ to your live website at the aforementioned link.
+
