@@ -1,6 +1,6 @@
 +++
 title = "Thesis writing"
-date = "2016-15-10"
+date = "2016-10-15"
 sidemenu = "true"
 description = "Pointers for keeping it simple and sleek"
 +++
