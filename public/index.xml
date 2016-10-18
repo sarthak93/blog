@@ -163,5 +163,45 @@ Sarthak&lt;/p&gt;
 </description>
     </item>
     
+    <item>
+      <title>Thesis writing</title>
+      <link>https://sarthak93.github.io/blog/post/iitkgp-thesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarthak93.github.io/blog/post/iitkgp-thesis/</guid>
+      <description>
+
+&lt;p&gt;Hey reader! Now that you&amp;rsquo;re already reading this I should warn you that this requires you to get out of the comfort zone and not use conventional typesetting software. Perks of why you should do this is, that at a later point of time, it would be easier for you to publish papers in any format you like without having to jump around using those sloppy templates.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-template&#34;&gt;The Template&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Download this Latex template &lt;a href=&#34;https://www.dropbox.com/s/3agxwl90qhkowan/IITKGP_Thesis.zip?dl=0&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Sorry folks! But I am a big fan of &lt;em&gt;Latex&lt;/em&gt; and would really suggest you use it as well.&lt;/li&gt;
+&lt;li&gt;Simply download any of the Tex packages suitable for your OS.&lt;/li&gt;
+&lt;li&gt;Expand this file and &lt;em&gt;Voila!&lt;/em&gt; You are ready to be making an awesome thesis.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;the-guidelines-to-adopt&#34;&gt;The guidelines to adopt&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Documentation process is a difficult and tiresome process but if you start early, it will pay you well later.&lt;/li&gt;
+&lt;li&gt;Generally keep a thread in your documentation for the reader to be hooked on to.
+
+&lt;ul&gt;
+&lt;li&gt;Start with an introduction&lt;/li&gt;
+&lt;li&gt;Unfold all topics covered in that heading&lt;/li&gt;
+&lt;li&gt;Conclude the chapter&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Structure all your data in tables and figures clearly. Don&amp;rsquo;t try and add too many figures lest you may be harrowed over &lt;em&gt;&amp;ldquo;less content, more pictures&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For now, this is all. Feel free to get in touch.&lt;/p&gt;
+
+&lt;p&gt;Cheers!
+Sarthak&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
