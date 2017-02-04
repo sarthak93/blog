@@ -147,46 +147,6 @@ Sarthak&lt;/p&gt;
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://sarthak93.github.io/blog/contact/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://sarthak93.github.io/blog/contact/</guid>
-      <description>&lt;form class=&#34;pure-form pure-form-stacked&#34;&gt;
-  &lt;fieldset&gt;
-    &lt;div class=&#34;pure-g&#34;&gt;
-      &lt;div class=&#34;pure-u-1 pure-u-md-1-3&#34;&gt;
-        &lt;label for=&#34;first-name&#34;&gt;First Name&lt;/label&gt;
-        &lt;input id=&#34;first-name&#34; class=&#34;pure-u-23-24&#34; type=&#34;text&#34;&gt;
-      &lt;/div&gt;
-
-      &lt;div class=&#34;pure-u-1 pure-u-md-1-3&#34;&gt;
-        &lt;label for=&#34;last-name&#34;&gt;Last Name&lt;/label&gt;
-        &lt;input id=&#34;last-name&#34; class=&#34;pure-u-23-24&#34; type=&#34;text&#34;&gt;
-      &lt;/div&gt;
-
-      &lt;div class=&#34;pure-u-1 pure-u-md-1-3&#34;&gt;
-        &lt;label for=&#34;email&#34;&gt;E-Mail&lt;/label&gt;
-        &lt;input id=&#34;email&#34; class=&#34;pure-u-23-24&#34; type=&#34;email&#34; required&gt;
-      &lt;/div&gt;
-
-      &lt;div class=&#34;pure-u-1 pure-u-md-1-3&#34;&gt;
-        &lt;label for=&#34;city&#34;&gt;Location&lt;/label&gt;
-        &lt;input id=&#34;city&#34; class=&#34;pure-u-23-24&#34; type=&#34;text&#34;&gt;
-      &lt;/div&gt;
-
-    &lt;/div&gt;
-    &lt;fieldset class=&#34;pure-group&#34;&gt;
-      &lt;input type=&#34;text&#34; class=&#34;pure-input-1-2&#34; placeholder=&#34;A title&#34;&gt;
-      &lt;textarea class=&#34;pure-input-1-2&#34; placeholder=&#34;Your message&#34;&gt;&lt;/textarea&gt;
-    &lt;/fieldset&gt;
-    &lt;button type=&#34;submit&#34; class=&#34;pure-button pure-button-primary&#34;&gt;Send&lt;/button&gt;
-  &lt;/fieldset&gt;
-&lt;/form&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Food for thought</title>
       <link>https://sarthak93.github.io/blog/quotes/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
