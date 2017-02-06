@@ -62,10 +62,10 @@ Sarthak&lt;/p&gt;
     
     <item>
       <title>How to make your web presence</title>
-      <link>https://sarthak93.github.io/blog/post/how-to-launpad/</link>
+      <link>https://sarthak93.github.io/blog/post/how-to-launchpad/</link>
       <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sarthak93.github.io/blog/post/how-to-launpad/</guid>
+      <guid>https://sarthak93.github.io/blog/post/how-to-launchpad/</guid>
       <description>
 
 &lt;p&gt;I struggled on the internet to figure out how to mark my presence online and beacuse I believe in open source, I thus would like to share a quick step-by-step guide to launch yourself in the wide world of wonder. P.S. No money needed, but if you feel too generous, I won&amp;rsquo;t mind some charity coming along.&lt;/p&gt;
@@ -73,7 +73,7 @@ Sarthak&lt;/p&gt;
 &lt;h3 id=&#34;github&#34;&gt;GitHub&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Go to &lt;a href=&#34;www.github.com&#34;&gt;Github&lt;/a&gt; and create an account using your email id.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Go to &lt;a href=&#34;https://github.com&#34;&gt;Github&lt;/a&gt; and create an account using your email id.&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Chose a username which wouldn&amp;rsquo;t embarass you while sharing it.&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Create a repository by the name of &lt;em&gt;&lt;strong&gt;username&lt;/strong&gt;.github.io&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Voila! Now you have a website serving you at http://&lt;strong&gt;username&lt;/strong&gt;.github.io&lt;/li&gt;
@@ -87,7 +87,7 @@ Sarthak&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;You have to decide on the level of sophistication you need. &lt;em&gt;I am using an HTML/CSS based website with &lt;a href=&#34;www.gohugo.io&#34;&gt;Hugo&lt;/a&gt; powered blog.&lt;/em&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Go over to some common free templating sites like &lt;a href=&#34;http://www.opendesigns.org&#34;&gt;this&lt;/a&gt; and download any one which suits you.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Go over to some common free templating sites like &lt;a href=&#34;https://opendesigns.org&#34;&gt;this&lt;/a&gt; and download any one which suits you.&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Download the entire package and make sure you can open it in a local web browser without internet.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -111,7 +111,7 @@ Sarthak&lt;/p&gt;
 &lt;h3 id=&#34;domain-name-if-you-re-a-fancy-buff-and-want-to-brand-yourself&#34;&gt;Domain Name (If you&amp;rsquo;re a fancy buff and want to brand yourself)&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Go over to any of the domain name services. &lt;em&gt;I chose &lt;a href=&#34;www.godaddy.com&#34;&gt;GoDaddy&lt;/a&gt;.&lt;/em&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Go over to any of the domain name services. &lt;em&gt;I chose &lt;a href=&#34;https://godaddy.com&#34;&gt;GoDaddy&lt;/a&gt;.&lt;/em&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Choose a domain name you like and purchase it if it fits your budget.&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Now head over to the DNS settings and add a &lt;em&gt;forward with masking&lt;/em&gt; to your live website at the aforementioned link.&lt;/li&gt;
 &lt;/ul&gt;
