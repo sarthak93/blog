@@ -1,0 +1,74 @@
+
+baseurl = "https://sarthak93.github.io/blog/"
+#baseurl= "http://blog.sarthakjain.info/"
+languageCode = "en-us"
+title = "Let there be light"
+theme = "blackburn"
+author = "Sarthak Jain"
+copyright = "&copy; 2016. All rights reserved."
+canonifyurls = true
+paginate = 10
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  # Shown in the home page
+  subtitle = "For we are just a node on the network"
+  brand = "Blog"
+  googleAnalytics = "UA-83759526-2"
+  #disqus = "My Blog"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "02 Jan 2006"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+  #[[menu.main]]
+    #name = "Welcome"
+    #pre = "<i class='fa fa-home fa-fw'></i>"
+    #weight = 0
+    #identifier = "welcome"
+    #url = "/welcome/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "Quotes"
+    pre = "<i class='fa fa-quote-left fa-fw'></i>"
+    weight = 1
+    identifier = "quotes"
+    url = "/quotes/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 2
+    identifier = "about"
+    url = "/about/"
+  #[[menu.main]]
+    #name = "Contact"
+    #pre = "<i class='fa fa-phone fa-fw'></i>"
+    #weight = 3
+    #url = "/contact/"
+  
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  linkedin = "sarthakjain93"
+  facebook = "sarthakjain93"
+  instagram = "sarthakjain93"
+  twitter = "sarthakjain939"
+  github = "sarthak93"
+  
+  #stackoverflow = "*"
