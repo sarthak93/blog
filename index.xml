@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Let there be light</title>
-    <link>https://sarthak93.github.io/blog/</link>
+    <link>https://blog.sarthakjain.info/</link>
     <description>Recent content on Let there be light</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     <lastBuildDate>Sun, 29 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sarthak93.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.sarthakjain.info/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The social suicide squad</title>
-      <link>https://sarthak93.github.io/blog/post/social-suicide/</link>
+      <link>https://blog.sarthakjain.info/post/social-suicide/</link>
       <pubDate>Sun, 29 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sarthak93.github.io/blog/post/social-suicide/</guid>
+      <guid>https://blog.sarthakjain.info/post/social-suicide/</guid>
       <description>&lt;p&gt;Surprising that a few clicks here and there and one could completely isolate self from the clutches of the digital reality. Sadly, this is what the world has come to. I share a similar mood as I try penning down my thoughts and putting them together for the same digital reality I despise. Ironic and hypocritical; one may call it. But aren&amp;rsquo;t we all? So getting back to the current train of thought, I really think that technology and digital availability has made us so engrossed into other people&amp;rsquo;s lives that when we face the harsh reality of spending some quality time with ourself, learning and changing, we fail. As humans, I think its a degrading effect because at our intellectual apex with ourself, we tend to let emotions cloud judgment and drown ourselves in a consistent state of depression. Some folks who see through this, isolate themselves from this digital circus and try getting comfortable. But then regaining that sense of &amp;ldquo;connectedness&amp;rdquo;, one feels happy again and is caught in this vicious circle. Second law of thermodynamics states that the entropy of the system increases with time. In essence, chaos is bound to increase. Honestly, with all this digital connectedness, we tend to share our school of thought and divide upon strong viewpoints in the virtual world, losing the essential human tendency to interact in real life. This has degraded us to the effect that imagining a life without Internet and mobile phones seems impossible to comprehend. Over and over we go through the circle of depression, detachment, isolation, re-attachment and happiness. Over and over we commit the &amp;ldquo;digital suicide&amp;rdquo; when we go about breaking contact. In essence, we just want some attention.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Thesis writing</title>
-      <link>https://sarthak93.github.io/blog/post/iitkgp-thesis/</link>
+      <link>https://blog.sarthakjain.info/post/iitkgp-thesis/</link>
       <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sarthak93.github.io/blog/post/iitkgp-thesis/</guid>
+      <guid>https://blog.sarthakjain.info/post/iitkgp-thesis/</guid>
       <description>
 
 &lt;p&gt;Hey reader! Now that you&amp;rsquo;re already reading this I should warn you that this requires you to get out of the comfort zone and not use conventional typesetting software. Perks of why you should do this is, that at a later point of time, it would be easier for you to publish papers in any format you like without having to jump around using those sloppy templates.&lt;/p&gt;
@@ -62,10 +62,10 @@ Sarthak&lt;/p&gt;
     
     <item>
       <title>How to make your web presence</title>
-      <link>https://sarthak93.github.io/blog/post/how-to-launchpad/</link>
+      <link>https://blog.sarthakjain.info/post/how-to-launchpad/</link>
       <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sarthak93.github.io/blog/post/how-to-launchpad/</guid>
+      <guid>https://blog.sarthakjain.info/post/how-to-launchpad/</guid>
       <description>
 
 &lt;p&gt;I struggled on the internet to figure out how to mark my presence online and beacuse I believe in open source, I thus would like to share a quick step-by-step guide to launch yourself in the wide world of wonder. P.S. No money needed, but if you feel too generous, I won&amp;rsquo;t mind some charity coming along.&lt;/p&gt;
@@ -120,20 +120,20 @@ Sarthak&lt;/p&gt;
     
     <item>
       <title>My first post</title>
-      <link>https://sarthak93.github.io/blog/post/first-blog-post/</link>
+      <link>https://blog.sarthakjain.info/post/first-blog-post/</link>
       <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://sarthak93.github.io/blog/post/first-blog-post/</guid>
+      <guid>https://blog.sarthakjain.info/post/first-blog-post/</guid>
       <description>&lt;p&gt;After a lot of gasping-for-air like moments, I could successfully setup my website and blog. Honestly, I could never have felt any more satisfied after doing this.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://sarthak93.github.io/blog/about/</link>
+      <link>https://blog.sarthakjain.info/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sarthak93.github.io/blog/about/</guid>
+      <guid>https://blog.sarthakjain.info/about/</guid>
       <description>&lt;p&gt;Hey there! I am Sarthak Jain, final year student from IIT Kharagpur. As of now I&amp;rsquo;m majoring in Civil Engineering, with specialisation in structures.&lt;/p&gt;
 
 &lt;p&gt;Keeping up with the open source world, I managed to bring this blog site up using &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; &amp;amp;  &lt;a href=&#34;https://pages.github.com&#34;&gt;GitHub Pages&lt;/a&gt; which I found to be pretty cool and easy.&lt;/p&gt;
@@ -148,10 +148,10 @@ Sarthak&lt;/p&gt;
     
     <item>
       <title>Food for thought</title>
-      <link>https://sarthak93.github.io/blog/quotes/</link>
+      <link>https://blog.sarthakjain.info/quotes/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sarthak93.github.io/blog/quotes/</guid>
+      <guid>https://blog.sarthakjain.info/quotes/</guid>
       <description>&lt;p&gt;Most of the time, I like to think and pen it down. Here is a little piece of my time.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -162,10 +162,10 @@ Sarthak&lt;/p&gt;
     
     <item>
       <title>Welcome</title>
-      <link>https://sarthak93.github.io/blog/post/welcome/</link>
+      <link>https://blog.sarthakjain.info/post/welcome/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sarthak93.github.io/blog/post/welcome/</guid>
+      <guid>https://blog.sarthakjain.info/post/welcome/</guid>
       <description>&lt;p&gt;Thanks for breaking the barrier and taking the first step! I am highly obliged by your gesture. I have a couple of posts on my thoughts, learnings, actvities. Feel free to browse along.&lt;/p&gt;
 
 &lt;p&gt;Cheers!
