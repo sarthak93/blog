@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Let there be light</title>
+    <link>https://blog.sarthakjain.info/</link>
+    <description>Recent content on Let there be light</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 29 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.sarthakjain.info/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The social suicide squad</title>
+      <link>https://blog.sarthakjain.info/post/social-suicide/</link>
+      <pubDate>Sun, 29 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sarthakjain.info/post/social-suicide/</guid>
+      <description>&lt;p&gt;Surprising that a few clicks here and there and one could completely isolate self from the clutches of the digital reality. Sadly, this is what the world has come to. I share a similar mood as I try penning down my thoughts and putting them together for the same digital reality I despise. Ironic and hypocritical; one may call it. But aren&amp;rsquo;t we all? So getting back to the current train of thought, I really think that technology and digital availability has made us so engrossed into other people&amp;rsquo;s lives that when we face the harsh reality of spending some quality time with ourself, learning and changing, we fail. As humans, I think its a degrading effect because at our intellectual apex with ourself, we tend to let emotions cloud judgment and drown ourselves in a consistent state of depression. Some folks who see through this, isolate themselves from this digital circus and try getting comfortable. But then regaining that sense of &amp;ldquo;connectedness&amp;rdquo;, one feels happy again and is caught in this vicious circle. Second law of thermodynamics states that the entropy of the system increases with time. In essence, chaos is bound to increase. Honestly, with all this digital connectedness, we tend to share our school of thought and divide upon strong viewpoints in the virtual world, losing the essential human tendency to interact in real life. This has degraded us to the effect that imagining a life without Internet and mobile phones seems impossible to comprehend. Over and over we go through the circle of depression, detachment, isolation, re-attachment and happiness. Over and over we commit the &amp;ldquo;digital suicide&amp;rdquo; when we go about breaking contact. In essence, we just want some attention.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thesis writing</title>
+      <link>https://blog.sarthakjain.info/post/iitkgp-thesis/</link>
+      <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sarthakjain.info/post/iitkgp-thesis/</guid>
+      <description>
+
+&lt;p&gt;Hey reader! Now that you&amp;rsquo;re already reading this I should warn you that this requires you to get out of the comfort zone and not use conventional typesetting software. Perks of why you should do this is, that at a later point of time, it would be easier for you to publish papers in any format you like without having to jump around using those sloppy templates.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-template&#34;&gt;The Template&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Download this Latex template &lt;a href=&#34;https://www.dropbox.com/s/3agxwl90qhkowan/IITKGP_Thesis.zip?dl=0&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Sorry folks! But I am a big fan of &lt;em&gt;Latex&lt;/em&gt; and would really suggest you use it as well.&lt;/li&gt;
+&lt;li&gt;Simply download any of the Tex packages suitable for your OS.&lt;/li&gt;
+&lt;li&gt;Expand this file and &lt;em&gt;Voila!&lt;/em&gt; You are ready to be making an awesome thesis.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;the-guidelines-to-adopt&#34;&gt;The guidelines to adopt&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Documentation process is a difficult and tiresome process but if you start early, it will pay you well later.&lt;/li&gt;
+&lt;li&gt;Generally keep a thread in your documentation for the reader to be hooked on to.
+
+&lt;ul&gt;
+&lt;li&gt;Start with an introduction&lt;/li&gt;
+&lt;li&gt;Unfold all topics covered in that heading&lt;/li&gt;
+&lt;li&gt;Conclude the chapter&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Structure all your data in tables and figures clearly. Don&amp;rsquo;t try and add too many figures lest you may be harrowed over &lt;em&gt;&amp;ldquo;less content, more pictures&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For now, this is all. Feel free to get in touch.&lt;/p&gt;
+
+&lt;p&gt;Cheers!
+Sarthak&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to make your web presence</title>
+      <link>https://blog.sarthakjain.info/post/how-to-launchpad/</link>
+      <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sarthakjain.info/post/how-to-launchpad/</guid>
+      <description>
+
+&lt;p&gt;I struggled on the internet to figure out how to mark my presence online and beacuse I believe in open source, I thus would like to share a quick step-by-step guide to launch yourself in the wide world of wonder. P.S. No money needed, but if you feel too generous, I won&amp;rsquo;t mind some charity coming along.&lt;/p&gt;
+
+&lt;h3 id=&#34;github&#34;&gt;GitHub&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Go to &lt;a href=&#34;https://github.com&#34;&gt;Github&lt;/a&gt; and create an account using your email id.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Chose a username which wouldn&amp;rsquo;t embarass you while sharing it.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Create a repository by the name of &lt;em&gt;&lt;strong&gt;username&lt;/strong&gt;.github.io&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Voila! Now you have a website serving you at http://&lt;strong&gt;username&lt;/strong&gt;.github.io&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;the-crucial-part-the-web-page&#34;&gt;The crucial part - &lt;em&gt;The Web Page&lt;/em&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Here is the nitty gritty stuff.
+
+&lt;ul&gt;
+&lt;li&gt;You have to decide on the level of sophistication you need. &lt;em&gt;I am using an HTML/CSS based website with &lt;a href=&#34;www.gohugo.io&#34;&gt;Hugo&lt;/a&gt; powered blog.&lt;/em&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Go over to some common free templating sites like &lt;a href=&#34;https://opendesigns.org&#34;&gt;this&lt;/a&gt; and download any one which suits you.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Download the entire package and make sure you can open it in a local web browser without internet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;getting-published&#34;&gt;Getting published&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Now what you want to be doing is making a folder on your local machine where you could put the website locally.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;If you are not familiar with Github command line, no worries, I&amp;rsquo;ve got you covered. As I said, this is for noobs like me. So go ahead and install &lt;a href=&#34;https://desktop.github.com&#34;&gt;GitHub client&lt;/a&gt; on your computer.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Link the aforementioned folder to the GitHub client. Add your GitHub credentials aka your username, password.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Now know that the words &lt;em&gt;pull&lt;/em&gt;, &lt;em&gt;push&lt;/em&gt; and &lt;em&gt;commit&lt;/em&gt; would be redefined in your mental dictionary in the next few seconds.&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Commit - It means that the currently &lt;em&gt;watched&lt;/em&gt; folder is checked for changes and they are updated into a &lt;em&gt;version control&lt;/em&gt;.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Pull - It means that the changes in your remote repository aka folder would be reflected in your local repository.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Push - It means that the changes in your local repository aka folder would be reflected into the remote repository.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Once you successfully &lt;em&gt;push&lt;/em&gt; the template folder to your &lt;em&gt;username.github.io&lt;/em&gt; repository, you have a live website.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Congratulations! :) You cleared the first step. Now head over to edit this template website to suit your needs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;domain-name-if-you-re-a-fancy-buff-and-want-to-brand-yourself&#34;&gt;Domain Name (If you&amp;rsquo;re a fancy buff and want to brand yourself)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Go over to any of the domain name services. &lt;em&gt;I chose &lt;a href=&#34;https://godaddy.com&#34;&gt;GoDaddy&lt;/a&gt;.&lt;/em&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Choose a domain name you like and purchase it if it fits your budget.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Now head over to the DNS settings and add a &lt;em&gt;forward with masking&lt;/em&gt; to your live website at the aforementioned link.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>https://blog.sarthakjain.info/post/first-blog-post/</link>
+      <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sarthakjain.info/post/first-blog-post/</guid>
+      <description>&lt;p&gt;After a lot of gasping-for-air like moments, I could successfully setup my website and blog. Honestly, I could never have felt any more satisfied after doing this.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://blog.sarthakjain.info/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sarthakjain.info/about/</guid>
+      <description>&lt;p&gt;Hey there! I am Sarthak Jain, final year student from IIT Kharagpur. As of now I&amp;rsquo;m majoring in Civil Engineering, with specialisation in structures.&lt;/p&gt;
+
+&lt;p&gt;Keeping up with the open source world, I managed to bring this blog site up using &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; &amp;amp;  &lt;a href=&#34;https://pages.github.com&#34;&gt;GitHub Pages&lt;/a&gt; which I found to be pretty cool and easy.&lt;/p&gt;
+
+&lt;p&gt;My main motive is to share my views, thoughts and activities I keeep doing as an engineer in the making.&lt;/p&gt;
+
+&lt;p&gt;Have questions or suggestions? Feel free to &lt;a href=&#34;http://sarthakjain.info&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Food for thought</title>
+      <link>https://blog.sarthakjain.info/quotes/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sarthakjain.info/quotes/</guid>
+      <description>&lt;p&gt;Most of the time, I like to think and pen it down. Here is a little piece of my time.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The day you realise that lonely and solitary are flip sides to the same situation, is the day you possess the power to live life on your own terms.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://blog.sarthakjain.info/post/welcome/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sarthakjain.info/post/welcome/</guid>
+      <description>&lt;p&gt;Thanks for breaking the barrier and taking the first step! I am highly obliged by your gesture. I have a couple of posts on my thoughts, learnings, actvities. Feel free to browse along.&lt;/p&gt;
+
+&lt;p&gt;Cheers!
+Sarthak&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
