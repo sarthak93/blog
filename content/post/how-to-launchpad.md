@@ -9,7 +9,7 @@ I struggled on the internet to figure out how to mark my presence online and bea
 
 ### GitHub
 
-* Go to [Github](www.github.com) and create an account using your email id.  
+* Go to [Github](https://github.com) and create an account using your email id.  
 * Chose a username which wouldn't embarass you while sharing it.  
 * Create a repository by the name of _**username**.github.io_
 * Voila! Now you have a website serving you at http://**username**.github.io
@@ -18,7 +18,7 @@ I struggled on the internet to figure out how to mark my presence online and bea
 
 * Here is the nitty gritty stuff. 
 	* You have to decide on the level of sophistication you need. _I am using an HTML/CSS based website with [Hugo](www.gohugo.io) powered blog._  
-* Go over to some common free templating sites like [this](http://www.opendesigns.org) and download any one which suits you.  
+* Go over to some common free templating sites like [this](https://opendesigns.org) and download any one which suits you.  
 * Download the entire package and make sure you can open it in a local web browser without internet.
 
 ### Getting published
@@ -35,7 +35,7 @@ I struggled on the internet to figure out how to mark my presence online and bea
 
 ### Domain Name (If you're a fancy buff and want to brand yourself)
 
-* Go over to any of the domain name services. _I chose [GoDaddy](www.godaddy.com)._  
+* Go over to any of the domain name services. _I chose [GoDaddy](https://godaddy.com)._  
 * Choose a domain name you like and purchase it if it fits your budget.  
 * Now head over to the DNS settings and add a _forward with masking_ to your live website at the aforementioned link.
 
