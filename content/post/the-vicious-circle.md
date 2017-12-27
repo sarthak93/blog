@@ -1,0 +1,8 @@
++++
+title = "Vicious circle of anxiety"
+date = "2017-12-26"
+sidemenu = "true"
+description = "From grades to bonuses to neighbours"
++++
+
+When he was in school, people told him that he should work hard towards getting good grades because that is the best thing to do. He took it at face value since elders used to be the know-it-all gurus. As the sun of an adolescent young mind was rising into new horizons of college, the society guided the soft clay to take up pursuit of intellect in engineering. He worked hard under the midnight lamp again to get good grades and learning decades old stuff. Uniniviting passion and risk into his life, he transcended into staying safe, cautious and wary of not losing out on his grade and stand. Youth set him into the corporate ladder, seen to be a big head start into his career, and he unwillingly started working towards getting good bonuses, promotions. As he takes a moment after proving his mettle to the society and providing for himself, he realises that all this while he was toiling away, it was a life projected by society he was building. He spent milliions of minutes, a 3rd of his lifetime losing out his valor, innocence and energy to the consuming vicious circle where he is now to be the know-it-all guru. For once, had he taken to his wild imaginations, failed early, he would not be facing an impassionate moment towards the life seen to be perfect from soceity. But alas, now he just feels he has limited time and only if he had done things earlier. He wants to preach to the world the importance of the right attitude at the right age and what to take away from the impending society. Alas, the moment for him to take action is fading as he introspects to think about what he has wanted all along.  
