@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<<<<<<< HEAD
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
@@ -8,10 +9,23 @@
   
   <url>
     <loc>https://blog.sarthakjain.info/post/social-suicide/</loc>
+=======
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.sarthakjain.info/post/the-vicious-circle/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sarthakjain.info/post/wind-of-change/</loc>
+>>>>>>> 45db51707351125db9d1472872a58ee7a3744164
     <lastmod>2017-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.sarthakjain.info/post/iitkgp-thesis/</loc>
     <lastmod>2016-10-15T00:00:00+00:00</lastmod>
   </url>
@@ -39,6 +53,37 @@
   <url>
     <loc>https://blog.sarthakjain.info/post/welcome/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+=======
+    <loc>https://blog.sarthakjain.info/post/how-to-launchpad/</loc>
+    <lastmod>2016-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sarthakjain.info/quotes/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sarthakjain.info/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sarthakjain.info/post/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sarthakjain.info/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sarthakjain.info/topics/</loc>
+    <priority>0</priority>
+>>>>>>> 45db51707351125db9d1472872a58ee7a3744164
   </url>
   
 </urlset>
