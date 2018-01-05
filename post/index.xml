@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 26 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.sarthakjain.info/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Take charge</title>
+      <link>https://blog.sarthakjain.info/post/take-charge/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sarthakjain.info/post/take-charge/</guid>
+      <description>&amp;ldquo;Lucky her!&amp;rdquo;, exclaimed the disappointed candidate in complete dismay after realising that he didn&amp;rsquo;t make the list. Isn&amp;rsquo;t it so sad that when something goes well, we take credit and when things go against our way, we discredit fate and what not comes to our minds at the moment. Such is the attitude prevalent among the multitude of rats who would be willing to bring down people and climb upon the wreath&amp;rsquo;s of someone&amp;rsquo;s personal success.</description>
+    </item>
     
     <item>
       <title>Vicious circle of anxiety</title>
@@ -76,15 +85,6 @@ GitHub  Go to Github and create an account using your email id.</description>
       <guid>https://blog.sarthakjain.info/post/welcome/</guid>
       <description>Thanks for breaking the barrier and taking the first step! I am highly obliged by your gesture. I have a couple of posts on my thoughts, learnings, actvities. Feel free to browse along.
 Cheers! Sarthak</description>
-    </item>
-    
-    <item>
-      <title>Take charge</title>
-      <link>https://blog.sarthakjain.info/post/take-charge/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.sarthakjain.info/post/take-charge/</guid>
-      <description>&amp;ldquo;Lucky her!&amp;rdquo;, exclaimed the disappointed candidate in complete dismay after realising that he didn&amp;rsquo;t make the list. Isn&amp;rsquo;t it so sad that when something goes well, we take credit and when things go against our way, we discredit fate and what not comes to our minds at the moment. Such is the attitude prevalent among the multitude of rats who would be willing to bring down people and climb upon the wreath&amp;rsquo;s of someone&amp;rsquo;s personal success.</description>
     </item>
     
   </channel>
