@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>https://blog.sarthakjain.info/post/wind-of-change/</loc>
-    <lastmod>2017-01-29T00:00:00+00:00</lastmod>
+    <loc>https://blog.sarthakjain.info/post/social-suicide/</loc>
+    <lastmod>2017-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.sarthakjain.info/post/social-suicide/</loc>
+    <loc>https://blog.sarthakjain.info/post/wind-of-change/</loc>
     <lastmod>2017-01-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -75,6 +75,10 @@
     <loc>https://blog.sarthakjain.info/tags/</loc>
     <lastmod>2015-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sarthakjain.info/post/take-charge/</loc>
   </url>
   
   <url>
