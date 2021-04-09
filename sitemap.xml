@@ -3,6 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.sarthakjain.info/</loc>
+    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sarthakjain.info/post/19_3_26_my_mantra/</loc>
+    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sarthakjain.info/post/</loc>
+    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sarthakjain.info/post/18_12_27_webspun/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.sarthakjain.info/post/18_9_12_dilemmas/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
@@ -53,18 +75,9 @@
   </url>
   
   <url>
-    <loc>https://blog.sarthakjain.info/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sarthakjain.info/quotes/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sarthakjain.info/post/14_4_9_welcome/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>https://blog.sarthakjain.info/tags/</loc>
+    <lastmod>2015-06-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -80,21 +93,18 @@
   </url>
   
   <url>
-    <loc>https://blog.sarthakjain.info/</loc>
-    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.sarthakjain.info/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.sarthakjain.info/post/</loc>
-    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.sarthakjain.info/quotes/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.sarthakjain.info/tags/</loc>
-    <lastmod>2015-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.sarthakjain.info/post/14_4_9_welcome/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
