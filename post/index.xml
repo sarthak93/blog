@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.sarthakjain.info/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resilience</title>
+      <link>https://blog.sarthakjain.info/post/19_8_07_resilience/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sarthakjain.info/post/19_8_07_resilience/</guid>
+      <description>What is resilience? the capacity to recover quickly from difficulties. My engineering mindset makes me think of it as a personal Young&amp;rsquo;s modulus. Simply put it is a function of your own toughness and your capacity really just like any other physical object. It allows you to bear a function of stress till a point where you can recover. Once you exhaust this so called pool of resilience, you are basically beyond the spring back realm and would end up with some permanent damage.</description>
+    </item>
     
     <item>
       <title>My Mantra</title>

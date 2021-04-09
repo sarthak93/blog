@@ -4,19 +4,24 @@
   
   <url>
     <loc>https://blog.sarthakjain.info/</loc>
-    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sarthakjain.info/post/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sarthakjain.info/post/19_8_07_resilience/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.sarthakjain.info/post/19_3_26_my_mantra/</loc>
     <lastmod>2019-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sarthakjain.info/post/</loc>
-    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
