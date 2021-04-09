@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.sarthakjain.info/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Plant watering system</title>
+      <link>https://blog.sarthakjain.info/post/20_7_16_watersystem/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sarthakjain.info/post/20_7_16_watersystem/</guid>
+      <description>I didn&amp;rsquo;t want to be cruel to my plants and leave them without adequate water supply before locking my house for an extended period. So I took to the advent of combining simple relays and piping system with a water supply to create an automatic plant watering system. Now, my plants get watered for 5 minutes every Monday and Thursday morning without fail. Obviously, the big requirements here are water and electricity supply.</description>
+    </item>
+    
+    <item>
+      <title>Credit statements</title>
+      <link>https://blog.sarthakjain.info/post/20_3_27_credit_statements/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sarthakjain.info/post/20_3_27_credit_statements/</guid>
+      <description>I am big on keeping track of where and what you spend on but so many applications out there achieve the same person; but you always run the risk of being profiled for the expenses you have made by folks other than your bank. Out of a need to do this analysis in the most crude form, I took to automating the PDF credit card statements I receive in my email to be summarised in a spreadsheet.</description>
+    </item>
+    
+    <item>
+      <title>Plant Light</title>
+      <link>https://blog.sarthakjain.info/post/20_1_14_plantlight/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sarthakjain.info/post/20_1_14_plantlight/</guid>
+      <description>I have been trying to grow plants in my balcony in Bangalore but often I have realised that maybe they are not getting appropriate sunlight through the day, week, month and year if they survive. A simple approach could have been to make some observations about sunlight profile in my balcony on different times and days. But me being a lazy techie guy, I took to a scientific grounding behind what would be the most optimal way of arranging plants on your home balcony.</description>
+    </item>
     
     <item>
       <title>Resilience</title>
