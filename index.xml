@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Let there be light</title>
@@ -7,17 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://blog.sarthakjain.info/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.sarthakjain.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plant watering system</title>
       <link>https://blog.sarthakjain.info/post/20_7_16_watersystem/</link>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.sarthakjain.info/post/20_7_16_watersystem/</guid>
+      <description>I didn&amp;rsquo;t want to be cruel to my plants and leave them without adequate water supply before locking my house for an extended period. So I took to the advent of combining simple relays and piping system with a water supply to create an automatic plant watering system. Now, my plants get watered for 5 minutes every Monday and Thursday morning without fail. Obviously, the big requirements here are water and electricity supply.</description>
+    </item>
+    
+    <item>
+      <title>Plant watering system</title>
+      <link>https://blog.sarthakjain.info/post/21_12_6_dichotomy/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sarthakjain.info/post/21_12_6_dichotomy/</guid>
       <description>I didn&amp;rsquo;t want to be cruel to my plants and leave them without adequate water supply before locking my house for an extended period. So I took to the advent of combining simple relays and piping system with a water supply to create an automatic plant watering system. Now, my plants get watered for 5 minutes every Monday and Thursday morning without fail. Obviously, the big requirements here are water and electricity supply.</description>
     </item>
     
@@ -146,7 +151,7 @@ The Template  Download this Latex template here.</description>
       
       <guid>https://blog.sarthakjain.info/post/16_4_8_how-to-launchpad/</guid>
       <description>I struggled on the internet to figure out how to mark my presence online and beacuse I believe in open source, I thus would like to share a quick step-by-step guide to launch yourself in the wide world of wonder. P.S. No money needed, but if you feel too generous, I won&amp;rsquo;t mind some charity coming along.
-GitHub  Go to Github and create an account using your email id.</description>
+GitHub  Go to Github and create an account using your email id. Chose a username which wouldn&amp;rsquo;t embarass you while sharing it.</description>
     </item>
     
     <item>
@@ -177,7 +182,7 @@ My main motive is to share my views, thoughts and activities I keeep doing as an
       <guid>https://blog.sarthakjain.info/quotes/</guid>
       <description>Most of the time, I like to think and pen it down. Here is a little piece of my time.
  &amp;ldquo;The day you realise that lonely and solitary are flip sides to the same situation, is the day you possess the power to live life on your own terms.&amp;rdquo;
- </description>
+   </description>
     </item>
     
     <item>
