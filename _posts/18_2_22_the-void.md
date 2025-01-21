@@ -1,0 +1,8 @@
++++
+title = "The void"
+date = "2018-02-22"
+sidemenu = "true"
+description = "What's failing within"
++++
+
+This heavy feeling within me that puts me into a zone of sulken mourning with despair and disappointment is that little void growing on my insecurities and lack of self-awareness. It is to the extent that I am unable to stop it taking control over my actions and behaviours. The growing void is a pit of failiing ambition, broken trust and most of all, a missing sense of purpose and comfort in knowing that your actions have meaning. As much as I may try filling it with misplaced attention or the momentary joy of impulsive satisfaction, it is very much there waiting to suck me into it. I seek purpose and meaning to drive the darkness away but in times of that self-doubt, all chaos takes over and the void grows ever than before. What must a man do but succumb to being drained away in the slippery, easy comfort zone that this void has become. 
