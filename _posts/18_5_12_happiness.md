@@ -1,8 +1,0 @@
-+++
-title = "Happiness"
-date = "2018-05-12"
-sidemenu = "true"
-description = "Defining what gets you going"
-+++
-
-Happy or sad is just a state of existence. Being the usual selves, we tend to chase after the expected societal norm working towards the journey of chaising after happiness. We, in the process tend to forget that it is our own state which we must take ownership of. It is all about defining the positioning of locus of control. We are all artists of our life but it all depends on who is holding the paintbrush. Without a sense of direction you could be like a geo stationery satelite gazing at one spot, hooked onto it. Some people derive motivation to do that but it takes immense amount of effort to keep that resolve and stay planted at the position you choose. 
