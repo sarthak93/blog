@@ -22,9 +22,6 @@ theme: "minima"
 
 rss: rss
 
-url: "https://sarthak93.github.io/blog/"
-
-baseurl: ""
 
 kramdown:
   syntax_highlighter_opts:
