@@ -1,4 +1,4 @@
-Hey there! I am [Sarthak Jain](sarthak93.github.io), a civil engineering graduate from IIT Kharagpur. Currently, I am working with Shell building mega projects. 
+Hey there! I am [Sarthak Jain](https://sarthak93.github.io), a civil engineering graduate from IIT Kharagpur. Currently, I am working with Shell building mega projects. 
 
 My main motive is to share my views, thoughts and activities I keep doing at work and in life. 
 
