@@ -1,13 +1,11 @@
----
-title: "Five Years Later: Infrastructure, Intelligence, and the Things Worth Building"
-description: "Why I'm writing again after the silent years, and how physical systems thinking led me to AI infrastructure."
-date: 2025-06-26
-tags:
-  - infrastructure
-  - AI
-  - digital-twins
-  - systems
----
+export const meta = {
+  title: "Five Years Later: Infrastructure, Intelligence, and the Things Worth Building",
+  description: "Why I'm writing again after the silent years, and how physical systems thinking led me to AI infrastructure.",
+  date: "2025-06-26",
+  tags: ["infrastructure", "AI", "digital-twins", "systems"],
+};
+
+# Five Years Later: Infrastructure, Intelligence, and the Things Worth Building
 
 There are things I’ve built that no one will ever see.
 
@@ -19,7 +17,7 @@ But now, the silence has served its purpose. I’m ready to build in public agai
 
 ---
 
-### What’s Changed?
+## What’s Changed?
 
 I’ve come to see that infrastructure—whether steel or silicon—isn’t just what we build. It’s how we think. It’s how we decide what’s worth protecting, what’s worth scaling, and what can never break.
 
@@ -29,7 +27,7 @@ I’m here to document what I’ve seen, question what I’ve built, and help sh
 
 ---
 
-### What to Expect
+## What to Expect
 
 In the posts ahead, I’ll explore:
 
