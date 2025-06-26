@@ -1,11 +1,4 @@
-export const meta = {
-  title: "Five Years Later: Infrastructure, Intelligence, and the Things Worth Building",
-  description: "Why I'm writing again after the silent years, and how physical systems thinking led me to AI infrastructure.",
-  date: "2025-06-26",
-  tags: ["infrastructure", "AI", "digital-twins", "systems"],
-};
-
-# Five Years Later: Infrastructure, Intelligence, and the Things Worth Building
+### Five Years Later: Infrastructure, Intelligence, and the Things Worth Building
 
 There are things I’ve built that no one will ever see.
 
