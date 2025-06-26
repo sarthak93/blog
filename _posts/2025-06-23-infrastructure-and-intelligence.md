@@ -1,4 +1,4 @@
-### Five Years Later: Infrastructure, Intelligence, and the Things Worth Building
+# Five Years Later: Infrastructure, Intelligence, and the Things Worth Building
 
 There are things I’ve built that no one will ever see.
 
